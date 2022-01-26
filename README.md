@@ -1,6 +1,6 @@
 # Flask file distribution
 
-This is a project which tells you. How to distribute a flask project into mutipal files.
+This is a project which tells you. How to distribute a flask project into multipal files.
 
 ## project structure
 ```
